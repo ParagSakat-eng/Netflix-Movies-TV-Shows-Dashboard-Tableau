@@ -59,13 +59,20 @@ This interactive **Tableau dashboard** analyzes a sample dataset of **Netflix Mo
 - The number of titles added spiked sharply between **2017–2019**.
 
 ## 🧾 Final Conclusion
-
+- This dashboard provides a comprehensive overview of Netflix's entertainment library using intuitive visuals.
+- It enables stakeholders, analysts, and content strategists to understand what kind of content dominates the platform, how it's distributed globally, and the trends in genre and content   ratings.
+- These insights can be used to inform content planning, acquisition strategies, and user preferences.
 
 ## 🛠️ Tools & Technologies Used
-
+- **Tableau**          
+- **CSV / Excel**     
+- **Mapbox Integration** 
+- **Tableau Filters & Parameters**
+- **Calculated Fields**
+- **Derived insights such as totals, percentages, ratios**
 
 
 ## 📸 Dashboard Preview
 
-> 🖼️ Screenshot of the Tableau Dashboard:
+> 🖼️ Screenshot of the Tableau Dashboard: <a href="https://github.com/ParagSakat-eng/Netflix-Movies-TV-Shows-Dashboard-Tableau/blob/main/Netflix%20DashBoard%20SS.PNG"> Dashboard Preview </a>
 
